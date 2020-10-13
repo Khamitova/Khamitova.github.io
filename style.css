@@ -1,0 +1,105 @@
+.wrapper {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding-left: 16px; */
+    /* padding-right: 16px; */
+}
+
+.block-left {
+    width: 400px;
+    height: 1300px;
+    /* overflow: auto; */
+    float: left;
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: #486e88;
+    color: rgba(255, 255, 255, 0.904);
+    /* padding-left: 25px; */
+}
+
+.block-right {
+    width: 800px;
+    height: 1300px;
+    /* overflow: auto; */
+    float: left;
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: rgba(255, 255, 255, 0.904);
+    color: rgba(12, 10, 10, 0.746);
+}
+
+.image {
+    display: block;
+    width: 250px;
+    height: 250px;
+    /* margin-top: 25px; */
+    /* margin-left: 25px; */
+    padding: 25px;
+}
+
+.inf {
+    padding-left: 30px;
+}
+
+.contact {
+    padding-top: 200px;
+}
+
+.interests {
+    padding-top: 100px;
+}
+
+.header {
+    font-size: 220%;
+    line-height: 0.5;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.career {
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+.education {
+    padding-top: 80px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+}
+
+.ed-table {
+    color:  rgba(12, 10, 10, 0.746);
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 1.5;
+    /* padding: 20px; */
+}
+
+tr:hover { background-color: #E0E0FF; }
+
+table, th, td { 
+    border-bottom: 2px solid rgba(128, 128, 128, 0.781); 
+    border-collapse: collapse;
+}
+
+.wrap {
+    width: 800px;
+    height: auto;
+
+}
+
+.skills {
+    width: 400px;
+    /* height: 1300px; */
+    /* overflow: auto; */
+    float: left;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: rgba(12, 10, 10, 0.746);
+    padding-top: 30px;
+}
+
+.back {
+    background-image: url(fon.jpg);
+    background-repeat: repeat-x;
+
+}
